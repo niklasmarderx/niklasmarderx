@@ -27,4 +27,4 @@ Interests    AI agents · developer tools · distributed systems
 ## Find me
 
 - GitHub: you're already here
-- SAP: I765354
+- LinkedIn: [Niklas Marder](https://www.linkedin.com/in/niklas-marder-75263a164/)
