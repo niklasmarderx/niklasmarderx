@@ -7,9 +7,13 @@ I work mostly on backend systems, developer tooling, and things that make other 
 
 ## Currently working on
 
-**Ember** — an AI agent framework. Building the infrastructure layer for running and coordinating AI agents in production environments.
+**[Ember](https://github.com/niklasmarderx/Ember)** — a blazing-fast AI agent framework written in Rust. Building the infrastructure layer for running and coordinating AI agents in production.
 
-**KeyboardWriter** — a typing trainer application focused on deliberate practice.
+**[rune](https://github.com/niklasmarderx/rune)** — a high-performance AI coding agent CLI built entirely in Rust, designed for speed, safety, and extensibility.
+
+**[hotswap](https://github.com/niklasmarderx/hotswap)** — zero-downtime config & env reloader that watches files, validates them, and signals processes.
+
+**[TypeCraft](https://github.com/niklasmarderx/TypeCraft)** — a typing trainer for programmers, with Code Playground, Git/Vim/Regex training, gamification, and PWA support.
 
 **MSc Thesis** — *Process Coherence in Enterprise Software Architectures* — researching how enterprise systems maintain coherent processes across distributed architectural boundaries.
 
@@ -18,7 +22,7 @@ I work mostly on backend systems, developer tooling, and things that make other 
 ## Tech
 
 ```
-Languages    Rust · TypeScript · Java · Python · LaTeX
+Languages    Rust · TypeScript · Python · Java · LaTeX
 Interests    AI agents · developer tools · distributed systems
 ```
 
@@ -26,5 +30,5 @@ Interests    AI agents · developer tools · distributed systems
 
 ## Find me
 
-- GitHub: you're already here
 - LinkedIn: [Niklas Marder](https://www.linkedin.com/in/niklas-marder-75263a164/)
+
